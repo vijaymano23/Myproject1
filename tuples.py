@@ -36,9 +36,9 @@
 # print(c) # this will print 5
 
 # to reverse a tuple
-tup=(1,2,3,4,5)
-tup_reverse=tup[::-1]
-print(tup_reverse)
+# tup=(1,2,3,4,5)
+# tup_reverse=tup[::-1]
+# print(tup_reverse)
 
-tup_rev=tuple(reversed(tup))
-print(tup_rev)
+# tup_rev=tuple(reversed(tup))
+# print(tup_rev)
