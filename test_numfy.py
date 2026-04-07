@@ -43,3 +43,5 @@ print(np.ones((3,3),dtype='int32',order='c'))
 print(np.full((3,3),7,dtype='int32',order='c'))
 
 print(np.eye(3,dtype='int32',order='c'))
+
+print(np.random.randint(1,100,(3,3),dtype='int32'))  
